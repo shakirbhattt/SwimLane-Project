@@ -10,7 +10,7 @@ app:
 mongodb:
   image: mongo:6
   port: 27017
-  database: swimlane
+  storage: 1Gi
 
 service:
   type: NodePort
