@@ -46,6 +46,4 @@ minikube -p swimlane service swimlane-app -n swimlane --url
 ngrok http <url-from-above>
 ```
 
-## Screenshot
 
-![App running](Screenshots/Screenshot 2026-02-25 at 5.45.03 PM.png)
