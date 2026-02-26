@@ -11,6 +11,7 @@ mongodb:
   image: mongo:6
   port: 27017
   storage: 1Gi
+  database: database 
 
 service:
   type: NodePort
