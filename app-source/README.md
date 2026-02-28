@@ -1,4 +1,4 @@
-# Swimlane DevOps - Local
+# NodeJs DevOps - Local
 
 This is a demo application to use for working on the Swimlane DevOps hiring practical project.
 
@@ -18,7 +18,7 @@ npm start
 Then visit [http://localhost:3000/](http://localhost:3000/)
 
 
-# Swimlane DevOps - Minikube
+# NodeJs DevOps - Minikube
 
 Node.js + MongoDB app containerized with Docker and deployed to Kubernetes (Minikube) using Helm.
 
